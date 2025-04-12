@@ -119,7 +119,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 **Author**: Viral Patel
 
-**Contact**: viral.patel@moschip.com
+**Contact**: viral19patel.vp@gmail.com
 
 **Tested with**: Linux BeagleBone Black
 
